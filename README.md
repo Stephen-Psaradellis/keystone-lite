@@ -8,6 +8,7 @@ step: open `index.html`, change the words, upload the folder.
 
 Running a dental practice? The same layout with a clinic theme and Dentist schema is
 [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/keystone-lite-dental).
+A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
 
 ## What you get (free, MIT)
 
