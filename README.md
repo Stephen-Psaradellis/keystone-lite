@@ -6,6 +6,9 @@ step: open `index.html`, change the words, upload the folder.
 
 **Live preview:** https://stephen-psaradellis.github.io/keystone-lite/
 
+Running a dental practice? The same layout with a clinic theme and Dentist schema is
+[Keystone Lite Dental](https://github.com/Stephen-Psaradellis/keystone-lite-dental).
+
 ## What you get (free, MIT)
 
 - One home page with hero, services, how it works, why us, emergency banner, reviews,
