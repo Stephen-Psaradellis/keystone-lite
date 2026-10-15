@@ -43,7 +43,7 @@ Keystone Lite is the home page of **Keystone**, a 16-page template:
 | sitemap.xml, HTML documentation | no | yes |
 | Licence | MIT | single site $29, unlimited client sites $69 |
 
-Get it here: **https://neuralgirlsdaily.gumroad.com/l/keystone**
+Get it here: **https://localwebkit.gumroad.com/l/keystone**
 (full live demo: https://stephen-psaradellis.github.io/demos/keystone/)
 
 ## Credits
