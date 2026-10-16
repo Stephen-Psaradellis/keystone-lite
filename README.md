@@ -51,6 +51,12 @@ Keystone Lite is the home page of **Keystone**, a 16-page template:
 Get it here: **https://localwebkit.gumroad.com/l/keystone**
 (full live demo: https://stephen-psaradellis.github.io/demos/keystone/)
 
+## Already have a site?
+
+Before you replace it, run the [free website check](https://stephen-psaradellis.github.io/demos/site-check.html): type the address and see,
+in plain English, what a customer or Google runs into on the home page, each with a free
+step-by-step fix. Some sites only need those fixes, not a new template.
+
 ## Credits
 
 Font: Manrope (SIL Open Font License 1.1), loaded from Google Fonts. Icons are inline SVG
