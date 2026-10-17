@@ -4,12 +4,12 @@ A fast, accessible, single-page HTML/CSS site for a plumber, HVAC company, elect
 cleaner, dentist or any business that sells a local service. No framework, no build
 step: open `index.html`, change the words, upload the folder.
 
-**Live preview:** https://stephen-psaradellis.github.io/keystone-lite/
+**Live preview:** https://stephen-psaradellis.github.io/plumber-website-template/
 
 Running a dental practice? The same layout with a clinic theme and Dentist schema is
-[Keystone Lite Dental](https://github.com/Stephen-Psaradellis/keystone-lite-dental).
-A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
-A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/keystone-lite-legal).
+[Keystone Lite Dental](https://github.com/Stephen-Psaradellis/dentist-website-template).
+A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template).
+A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/law-firm-website-template).
 
 ## What you get (free, MIT)
 
@@ -50,12 +50,6 @@ Keystone Lite is the home page of **Keystone**, a 16-page template:
 
 Get it here: **https://localwebkit.gumroad.com/l/keystone**
 (full live demo: https://stephen-psaradellis.github.io/demos/keystone/)
-
-## Already have a site?
-
-Before you replace it, run the [free website check](https://stephen-psaradellis.github.io/demos/site-check.html): type the address and see,
-in plain English, what a customer or Google runs into on the home page, each with a free
-step-by-step fix. Some sites only need those fixes, not a new template.
 
 ## Credits
 
