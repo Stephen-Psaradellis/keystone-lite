@@ -11,6 +11,7 @@ Running a dental practice? The same layout with a clinic theme and Dentist schem
 A house cleaning or maid service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template).
 A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/law-firm-website-template).
 A roofing company? [Keystone Lite Roofing](https://github.com/Stephen-Psaradellis/roofing-website-template).
+An electrical contractor? [Keystone Lite Electrician](https://github.com/Stephen-Psaradellis/electrician-website-template).
 
 ## What you get (free, MIT)
 
@@ -35,13 +36,13 @@ A roofing company? [Keystone Lite Roofing](https://github.com/Stephen-Psaradelli
 
 ## Need more pages?
 
-Keystone Lite is the home page of **Keystone**, a 16-page template:
+Keystone Lite is the home page of **Keystone**, a 19-page template:
 
 | | Lite (this repo) | Keystone |
 |---|---|---|
-| Home page | 1 (plumbing/HVAC) | 5 (plumbing/HVAC, dental, cleaning, law firm, roofing) |
+| Home page | 1 (plumbing/HVAC) | 6 (plumbing/HVAC, dental, cleaning, law firm, roofing, electrician) |
 | Inner pages | none | Services, Service detail, About, Pricing, Reviews, FAQ, Contact, Booking, Blog, Blog post, Thank-you, Privacy, 404 |
-| Colour presets | 1 | 5, one class each (plumbing, dental, cleaning, legal, roofing) |
+| Colour presets | 1 | 6, one class each (plumbing, dental, cleaning, legal, roofing, electrician) |
 | Booking / quote form | no | yes, with job type, date and arrival window |
 | Contact form | no | ready for Netlify Forms or Formspree |
 | Pricing table with monthly/yearly toggle | no | yes |
